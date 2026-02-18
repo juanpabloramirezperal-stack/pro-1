@@ -1,4 +1,4 @@
-
+import streamlit as st
 # Título y Descripción
 st.title("🛍️ La Calculadora de Rebajas")
 st.markdown("Bienvenido. Introduce tus datos para calcular las rebajas de tu producto.")
